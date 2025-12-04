@@ -1,0 +1,5 @@
+print ("Hello love")
+a=1
+b=4
+sum=a+b
+print("Sum:", sum)
